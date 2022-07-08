@@ -1,0 +1,10 @@
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/course/namedParams/NamedParams.kt
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/course/varArgs/WorkingWithVarArgs.kt
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/helloMekh/Main.kt
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/course/basicFunctions/MoreFunctions.kt
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/course/collectionsANdIterations/PlayingWIthCOllections.kt
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/course/workingWithClasses/Person.kt
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/course/variables/Main.kt
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/course/basicFunctions/PlayingWithFunctionsAndTyping.kt
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/course/basicFunctions/Stay.kt
+/Users/resilientcoders/Desktop/SamekhsKotlin/src/main/kotlin/course/workingWithClasses/Main.kt
